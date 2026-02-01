@@ -20,14 +20,14 @@ export function Footer() {
       </div>
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/faisalkhan-react/"
+          href="https://www.linkedin.com/in/faisalkhanxdev"
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/faisalkhan-react/"
+          href="https://github.com/faisalkhanxdev"
           target="_blank"
           rel="noreferrer"
         >
@@ -48,7 +48,7 @@ export function Footer() {
           <img src={telegram} alt="telegram" />
         </a>
         <a
-          href="https://www.instagram.com/faishalkhan.786/"
+          href="https://www.instagram.com/faishalkhan.786"
           target="_blank"
           rel="noreferrer"
         >

@@ -26,20 +26,20 @@ export function Hero() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.8 * 1000}>
           <BrowserRouter>
-          <a className="button" href="https://drive.google.com/file/d/15Gkhf-jHQGh0kT5x8Pp1DqxgT5sKVnpf/view?usp=sharing" target="_blank">Resume</a>
+          <a className="button" href="https://drive.google.com/file/d/19ryPhI4O8wL0kw06A9yFOQsjHX4qly0f/view?usp=sharing" target="_blank">Resume</a>
             {/* <NavHashLink smooth to="#contact" className="button">Resume</NavHashLink> */}
           </BrowserRouter>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
       <div className="social-media"><a
-        href="https://www.linkedin.com/in/faisalkhan-react/"
+        href="https://www.linkedin.com/in/faisalkhanxdev"
         target="_blank"
         rel="noreferrer"
       >
         <img src={linkedin} alt="Linkedin" />
       </a>
         <a
-          href="https://github.com/faisalkhan-react/"
+          href="https://github.com/faisalkhanxdev"
           target="_blank"
           rel="noreferrer"
         >

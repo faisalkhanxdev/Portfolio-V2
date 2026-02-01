@@ -42,7 +42,7 @@ export function Header() {
           {/* <a href={Resume} download className="button">
             Resume
           </a> */}
-          <a href="https://drive.google.com/file/d/15Gkhf-jHQGh0kT5x8Pp1DqxgT5sKVnpf/view?usp=sharing" target='_blank'>Resume</a>
+          <a href="https://drive.google.com/file/d/19ryPhI4O8wL0kw06A9yFOQsjHX4qly0f/view?usp=sharing" target='_blank'>Resume</a>
         </nav>
         <div
           aria-expanded={isActive ? 'true' : 'false'}
